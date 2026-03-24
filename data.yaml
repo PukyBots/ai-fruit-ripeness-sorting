@@ -1,0 +1,13 @@
+train: "paste the train data path here"
+val: "paste the validation data path here"
+test: "Paste the test data path here"
+
+nc: 3
+names: ['Defective', 'Ripe', 'Unripe']
+
+roboflow:
+  workspace: 
+  project: 
+  version: 1
+  license:
+  url: 
