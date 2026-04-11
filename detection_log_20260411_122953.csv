@@ -1,0 +1,7 @@
+Timestamp,Class,Confidence,Centroid_X,Centroid_Y,Zone,Session_ZoneA,Session_ZoneB
+12:29:55,ripe,0.79,328,444,A,1,0
+12:29:56,ripe,0.70,274,315,A,2,0
+12:29:58,defective,0.66,345,391,B,2,1
+12:30:00,unripe,0.73,28,265,B,2,2
+12:30:00,defective,0.73,344,395,B,2,3
+12:30:01,ripe,0.75,330,411,A,3,3
