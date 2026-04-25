@@ -237,13 +237,6 @@ Commit your changes: git commit -m "Add improvement"
 Push to the branch: git push origin feature/improvement-name
 Open a Pull Request
 
-
-Team
-Fatima Al Ruhala — Computer Vision, Model Training, Zone Mapping Logic, Documentation
-Institution: [Your College Name]
-Department: [Your Department]
-Academic Year: 2025–2026
-
 Acknowledgements
 
 Ultralytics for the YOLOv8 framework
