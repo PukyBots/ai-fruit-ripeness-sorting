@@ -5,7 +5,7 @@ An AI-powered fruit sorting system that classifies fruits into **Raw**, **Ripe**
 The system combines **OpenCV** for real-time image acquisition and preprocessing with a trained AI model for fruit classification, enabling intelligent automation in agricultural and food processing applications.
 
 <div align="center">
-  <img src="media/AI_Fruit_Detection.jpeg" width="500" height="300">
+  <img src="media/fruit_ripeness.png" width="500" height="500">
 </div>
 
 ---
@@ -24,7 +24,7 @@ The system combines **OpenCV** for real-time image acquisition and preprocessing
 - Modular and scalable architecture
 
 <div align="center">
-  <img src="media/scara_bot.jpeg" width="500" height="300">
+  <img src="media/scara_bot.jpeg" width="500" height="500">
 </div>
 
 
