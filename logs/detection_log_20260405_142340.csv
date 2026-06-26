@@ -1,6 +1,0 @@
-Timestamp,Class,Confidence,Centroid_X,Centroid_Y,Zone,Session_ZoneA,Session_ZoneB
-14:23:41,ripe,0.59,303,160,A,1,0
-14:23:45,ripe,0.63,299,187,A,2,0
-14:23:45,defective,0.62,140,92,B,2,1
-14:23:46,ripe,0.56,301,189,A,3,1
-14:23:48,ripe,0.53,299,216,A,4,1
