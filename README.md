@@ -5,7 +5,7 @@ An AI-powered fruit sorting system that classifies fruits into **Raw**, **Ripe**
 The system combines **OpenCV** for real-time image acquisition and preprocessing with a trained AI model for fruit classification, enabling intelligent automation in agricultural and food processing applications.
 
 <div align="center">
-  <img src="media/fruit_ripeness.png" width="500" height="500">
+  <img src="media/fruit_ripness.png" width="500" height="500">
 </div>
 
 ---
